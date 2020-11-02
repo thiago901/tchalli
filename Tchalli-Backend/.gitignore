@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+/dist
+tmp/
+temp/
+/ormconfig.json
+/node_modules
+/.env
+/coverage
